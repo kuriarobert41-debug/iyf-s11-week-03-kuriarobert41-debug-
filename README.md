@@ -1,4 +1,4 @@
-# kuriarobert41-debug - Week 03 Project
+# Margaret wangui- Week 03 Project
 
 Brief description: This repository contains the Week 3 deliverables for the IYF Season 11 course — command line practice, shell scripts, and a professional README.
 
