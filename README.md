@@ -62,7 +62,3 @@ Highlights:
 ## Contact
 
 - GitHub: [@kuriarobert41-debug](https://github.com/kuriarobert41-debug)
-
-## License
-
-This project is open source and available under the MIT License.
