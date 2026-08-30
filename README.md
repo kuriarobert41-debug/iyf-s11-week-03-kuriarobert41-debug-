@@ -46,6 +46,8 @@ iky-s11-week-03-kuriarobert41-debug-/
 
 This week I practiced terminal navigation, basic file operations, shell scripting, and Git workflows. I also prepared a professional README for the project.
 
+**Branch B note:** I added highlights about the commands and workflow while testing branching.
+
 ## Future Improvements
 
 - [ ] Add JavaScript interactivity (forms, filtering)
