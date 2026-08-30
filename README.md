@@ -26,7 +26,7 @@ Brief description: This repository contains the Week 3 deliverables for the IYF 
 ## Project Structure
 
 ```
-iky-s11-week-03-kuriarobert41-debug-/
+iyf-s11-week-03-kuriarobert41-debug-/
 ├── index.html
 ├── about.html
 ├── projects.html
@@ -46,11 +46,18 @@ iky-s11-week-03-kuriarobert41-debug-/
 
 This week I practiced terminal navigation, basic file operations, shell scripting, and Git workflows. I also prepared a professional README for the project.
 
+Highlights:
+- Used mkdir, touch, cp, mv, rm and other shell commands to create and manage project structure.
+- Wrote a reusable shell script new-project.sh to scaffold a project.
+- Practiced branching, committing with conventional messages, and merging workflows.
+
 ## Future Improvements
 
 - [ ] Add JavaScript interactivity (forms, filtering)
 - [ ] Implement dark mode
 - [ ] Add project filtering
+- [ ] Add automated tests and CI
+- [ ] Improve accessibility testing (axe/lighthouse)
 
 ## Contact
 
